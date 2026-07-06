@@ -85,8 +85,8 @@ Traditional ECG tests capture only a short snapshot of heart activity, often mis
 ## 👨‍💻 Team
 
 ## 👨‍💻 Team
-- **Devanadan K** - [@DevanadanK](https://github.com/devanadan2906)  Lead 🗿
-- **Gokul V** - [@GokulV](https://github.com/gokuloverseeker) - ExperimentRat
+- [@DevanadanK](https://github.com/devanadan2906)  Lead 🗿
+- [@GokulV](https://github.com/gokuloverseeker) - ExperimentRat
 - **Pushparaj V** - Paper Worker
 - **Nithish M** - Analyser 
 
