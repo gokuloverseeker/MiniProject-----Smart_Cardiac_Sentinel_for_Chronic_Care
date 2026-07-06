@@ -48,15 +48,15 @@ Traditional ECG tests capture only a short snapshot of heart activity, often mis
 
 ### Block Diagram
 
-![Block Diagram](Readme/block_diagram.jpeg)
+![Block Diagram](Project_Pic/block_diagram.jpeg)
 
 ### Circuit Diagram
 
-![Circuit Diagram](Readme/circuit_diagram.jpg)
+![Circuit Diagram](Project_Pic/circuit_diagram.jpg)
 
 ### Hardware Prototype
 
-![Hardware](Readme/Hardware.jpg)
+![Hardware](Project_Pic/Hardware.jpg)
 
 ---
 
